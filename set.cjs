@@ -26,7 +26,7 @@ const config = {
   PREFIX: process.env.PREFIX || '.',
   PORT: process.env.PORT || "5000", /* Where App Will Listen On */
   OWNER_NAME: process.env.OWNER_NAME || "MIRAGE TECH",
-  OWNER_NUMBER: process.env.OWNER_NUMBER || "2347013159244,2348105397012",
+  OWNER_NUMBER: process.env.OWNER_NUMBER || "2347013159244, 2348105397012",
   WELCOME: process.env.WELCOME !== undefined ? process.env.WELCOME === 'true' : false, 
 };
 
